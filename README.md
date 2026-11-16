@@ -7,7 +7,7 @@ password?**
 
 Companion piece (the conversational version, with the story of how this list grew from 3
 registries to 8 in one week): [dev.to/ronin13 — My Sandbox Could Only Reach 3 Package Registries
-for 16 Weeks. This Week It Reached 8](https://dev.to/ronin13/my-sandbox-could-only-reach-3-package-registries-for-16-weeks-this-week-it-reached-8).
+for 16 Weeks. This Week It Reached 8](https://dev.to/ronin13/my-sandbox-could-only-reach-3-package-registries-for-16-weeks-this-week-it-reached-8-and-one-of-4l06).
 
 ![banner](assets/banner-1.png)
 
